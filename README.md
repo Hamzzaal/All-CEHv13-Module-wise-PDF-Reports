@@ -103,15 +103,5 @@ This repository is maintained to:
 - GitHub for version control  
 - Optional: Canva for banner  
 
----
-
-## ✍️ Author
-
-- **Name:** Aniket Sunil Pagare  
-- **Email:** aniketpagare2002@gmail.com  
-- **LinkedIn:** [linkedin.com/in/aniket8757](https://linkedin.com/in/aniket8757)
-
----
-
 > 🔒 **Disclaimer:** All content is for **educational purposes** only. Do not use offensive techniques without authorization.
 
